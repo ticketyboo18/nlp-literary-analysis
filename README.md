@@ -72,7 +72,7 @@ Unsupervised topic discovery using Gensim's LDA with K=5 topics. Full topic prob
 
 Click the badge below to open directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ticketyboo18/nlp-literary-analysis/blob/main/NLP_Literary_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/github/ticketyboo18/nlp-literary-analysis/blob/main/nlpfinalpbl.ipynb)
 
 Then go to **Runtime → Restart and Run All**.
 
