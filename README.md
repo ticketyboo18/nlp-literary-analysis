@@ -91,6 +91,4 @@ jupyter notebook NLP_Literary_Analysis.ipynb
 
 ## Author
 
-**[Your Name]**
-B.Tech Electronics and Communication Engineering — Advanced Communication Technologies
-Jaypee Institute of Information Technology, Noida
+**Mukta Pande**
