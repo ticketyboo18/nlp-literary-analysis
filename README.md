@@ -68,7 +68,7 @@ Unsupervised topic discovery using Gensim's LDA with K=5 topics. Full topic prob
 
 ## How to Run
 
-**Option 1 — Google Colab (recommended)**
+**Option 1 — Google Colab**
 
 Click the badge below to open directly in Colab:
 
